@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolsp777&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsp777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsp777&layout=compact&theme=vision-friendly-dark)](https://github.com/amolsp777)
