@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m Amol
-- 👀 I’m interested in Powershell Admin scripting
+- 👀 I’m passionate about Powershell Admin scripting
 - 🌱 I’m currently learning all new challenges 
 - 📫 How to reach me - pscriptsasp@gmail.com or amolsp777@live.com
 
