@@ -158,7 +158,10 @@ flowchart LR
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Visit AP Shell blog](https://apshell.wordpress.com) — posts appear here automatically once the workflow runs
+- [Get Datastore utilization &amp; summary report v2 | PowerCLI](https://apshell.wordpress.com/2020/02/12/get-datastore-utilization-summary-report-v2-powercli/)
+- [VMware VM Inventory report with multiple details.](https://apshell.wordpress.com/2017/01/10/vmware-vm-inventory-report-with-multiple-details/)
+- [Installed Software Inventory from Remote Machine – Output in CSV &lpar;Excel&rpar; format](https://apshell.wordpress.com/2016/12/26/installed-software-inventory-from-remote-machine-output-in-csv-excel-format/)
+- [Welcome to DevOps Automation](https://apshell.wordpress.com/2016/12/26/devops-automation-home/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
