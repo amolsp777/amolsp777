@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"   # daily at 00:00 UTC
   workflow_dispatch:
+  push:
+    branches: [main]   # also run whenever publish.ps1 pushes
 
 permissions:
   contents: write
