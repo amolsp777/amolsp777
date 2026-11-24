@@ -1,7 +1,7 @@
 <!-- ============ SAMPLE V5 : "Green Terminal" — v2 colours & banner + v1 content + AP Shell logo ============ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0b3d2e,100:00c853&height=230&section=header&text=Hi,%20I'm%20Amol%20%F0%9F%91%8B&fontSize=55&fontColor=e6edf3&fontAlignY=45&stroke=00c853&strokeWidth=1&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d2e,100:00c853&height=200&section=header&text=Hi,%20I'm%20Amol%20%F0%9F%91%8B&fontSize=55&fontColor=e6edf3&fontAlignY=38&animation=fadeIn" alt="Header"/>
 </p>
 
 <!-- Logo on the left, intro on the right -->
@@ -184,6 +184,6 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c853,50:0b3d2e,100:0d1117&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,50:0b3d2e,100:0d1117&height=120&section=footer" alt="footer"/>
 </p>
 <p align="center"><code>exit 0</code> — thanks for stopping by! ⭐</p>
