@@ -118,6 +118,18 @@ flowchart LR
 
 ---
 
+### `$ Start-Snake -Mode Contributions` 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amolsp777/amolsp777/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amolsp777/amolsp777/output/github-snake.svg"/>
+    <img alt="Contribution snake (appears after the snake workflow runs)" src="https://raw.githubusercontent.com/amolsp777/amolsp777/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
 ### `$ Measure-Object -Contributions`
 
 <p align="center">
@@ -137,18 +149,6 @@ flowchart LR
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amolsp777&bg_color=0d1117&color=00c853&line=00c853&point=e6edf3&area=true&area_color=0b3d2e&hide_border=true" alt="Activity graph"/>
-</p>
-
----
-
-### `$ Start-Snake -Mode Contributions` 🐍
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amolsp777/amolsp777/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amolsp777/amolsp777/output/github-snake.svg"/>
-    <img alt="Contribution snake (appears after the snake workflow runs)" src="https://raw.githubusercontent.com/amolsp777/amolsp777/output/github-snake-dark.svg"/>
-  </picture>
 </p>
 
 ---
